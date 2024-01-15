@@ -1,0 +1,8 @@
+.DS_Store
+*.anki*
+*.apkg
+*.colpkg
+media
+meta
+*.csv
+*.tsv
