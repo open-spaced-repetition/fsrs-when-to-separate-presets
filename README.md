@@ -10,7 +10,7 @@ This repository is used to figure it out.
 
 I run an experiment in two collections. The initial results show that optimization on deck level is better. 
 
-In collection A, it reduce RMSE(bins) from 0.0124 to 0.0111 (relatively ~10%). In collection B, it reduce RMSE(bins) from 0.0384 to 0.0323 (relatively ~16%).
+In collection A, it reduce RMSE(bins) from 0.0219 to 0.0217 (relatively ~1%, insignificantly). In collection B, it reduce RMSE(bins) from 0.0361 to 0.0305 (relatively ~16%, significantly).
 
 ## Explanation
 
