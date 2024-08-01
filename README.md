@@ -8,13 +8,13 @@ This repository is used to figure it out.
 
 ## Initial results
 
-I run an experiment in two collections. The initial results show that optimization on deck level is better. 
+I run an experiment in two collections. The initial results show that optimization on deck level is better sometimes.
 
-In collection A, it reduce RMSE(bins) from 0.0219 to 0.0217 (relatively ~1%, insignificantly). In collection B, it reduce RMSE(bins) from 0.0361 to 0.0305 (relatively ~16%, significantly).
+In collection A, it increases RMSE(bins) from 0.0216 to 0.0220 (relatively ~1.85%, insignificantly). In collection B, it reduces RMSE(bins) from 0.0349 to 0.0290 (relatively ~16.9%, significantly).
 
 ## Explanation
 
-From the modeling perspective, it's a method like Model Ensemble, Hierarchical Modeling and Local Modeling.
+From the modeling perspective, it's a method like Model Ensemble, Hierarchical Modeling or Local Modeling.
 
 From the data perspective, different materials in different topics have different memory patterns.
 
